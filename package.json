@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.21.2",
     "image-to-base64": "^2.2.0",
-    "mongoose": "^6.4.0",
+    "mongoose": "^8.8.3",
     "querystring": "^0.2.1",
     "socket.io": "^4.4.0",
     "socketio-file-upload": "^0.7.3"
